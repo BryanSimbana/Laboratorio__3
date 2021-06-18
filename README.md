@@ -42,6 +42,12 @@
 
 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+![calculos lab2-1](https://user-images.githubusercontent.com/85320165/122497441-f8c94380-cfb2-11eb-9849-f43a917c7741.png)
+
+![_calculos lab2-2](https://user-images.githubusercontent.com/85320165/122497761-8b69e280-cfb3-11eb-965e-c0d5c257e4bf.png)
+
+
+
 5.VIDEO
 
 6.CONCLUSIONES
